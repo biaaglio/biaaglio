@@ -1,2 +1,1 @@
-Bianca Lima Aglio
-ADS- Fatec Presidente Prudente
+Bianca Lima Aglio, ADS- Fatec Presidente Prudente
