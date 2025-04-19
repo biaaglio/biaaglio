@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">- 🎓 Técnico em Desenvolvimento de Sistemas– 1200h | SENAI (2023–2024)<br>- 🧠 Soluções Integradas com IOT – 40h | SENAI (2023)<br>- 🐍 Fundamentos do Python 1 – 30h | SENAI (2024)<br>- 🧩 Ensino Médio completo | SESI – 40h | SENAI (2023) <br>- 🎓 Tecnólogo em ADS – FATEC Presidente Prudente (2025–2027)</p>
+<p align="left">- 🎓 Técnico em Desenvolvimento de Sistemas– 1200h | SENAI (2023–2024)<br>- 🧠 Soluções Integradas com IOT – 40h | SENAI (2023)<br>- 🐍 Fundamentos do Python 1 – 30h | SENAI (2024)<br>- 🧩 Ensino Médio completo | SESI<br>- 🎓 Tecnólogo em ADS – FATEC Presidente Prudente (2025–2027)</p>
 
 ###
 
@@ -46,9 +46,5 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
 </div>
-
-![Snake animation](https://github.com/biaaglio/biaaglio/blob/output/github-contribution-grid-snake.svg)
-
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=biaaglio&repo=biaaglio&theme=react)](https://github.com/biaaglo/biaaglio)
 
 ###
