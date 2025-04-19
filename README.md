@@ -47,4 +47,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
 </div>
 
+![Snake animation](https://github.com/biaaglio/biaaglio/blob/output/github-contribution-grid-snake.svg)
+
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=biaaglio&repo=biaaglio&theme=react)](https://github.com/biaaglo/biaaglio)
+
 ###
