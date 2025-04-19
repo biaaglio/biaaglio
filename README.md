@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">- 🎓 Técnico em Desenvolvimento de Sistemas– 1200h | SENAI (2023–2024)<br>- 🧠 Soluções Integradas com IOT – 40h | SENAI (2023)<br>- 🐍 Fundamentos do Python 1 – 30h | SENAI (2024) <br>- 🎓 Tecnólogo em ADS – FATEC Presidente Prudente (2025–2027)</p>
+<p align="left">- 🎓 Técnico em Desenvolvimento de Sistemas– 1200h | SENAI (2023–2024)<br>- 🧠 Soluções Integradas com IOT – 40h | SENAI (2023)<br>- 🐍 Fundamentos do Python 1 – 30h | SENAI (2024)<br>- 🧩 Ensino Médio completo | SESI – 40h | SENAI (2023) <br>- 🎓 Tecnólogo em ADS – FATEC Presidente Prudente (2025–2027)</p>
 
 ###
 
