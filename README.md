@@ -19,7 +19,7 @@
 
 ###
 
-<h3 align="left">Um pouco sobre mim:</h3>
+<h3 align="left">Formação e cursos:</h3>
 
 ###
 
