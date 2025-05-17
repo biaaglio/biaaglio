@@ -55,3 +55,7 @@
 </div>
 
 ###
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/biaaglio/biaaglio/output/snake.svg" alt="Snake animation" />
+</div>
