@@ -60,6 +60,5 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=biaaglio&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=vision-friendly-dark&hide_border=false&order=2" height="130" alt="languages graph"  />
 </div>
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=312w3mpprgood3ktx3xa4ch7a7sy&unique={true|1|on|yes})
 ###
 
