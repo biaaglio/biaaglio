@@ -1,3 +1,5 @@
+https://capsule-render.vercel.app/api?type=slice&height=150&color=gradient&text=Olá%20Mundo!%20Sou%20Bianca%20Aglio&reversal=false&textBg=false&descAlign=60&fontAlign=50&fontSize=50&animation=fadeIn
+
 <div align="center">
   <img height="150" src="https://i.pinimg.com/originals/ba/e3/0e/bae30e0c7acfec296e5a30d0a75af0f1.gif"  />
 </div>
