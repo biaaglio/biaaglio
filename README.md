@@ -1,12 +1,17 @@
 <div align="center">
-  <img height="180" src="https://camo.githubusercontent.com/6323605ff4cb82528e17f98957e67bbe8215ee632f28da9835fe69ec8f49000a/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f62612f65332f30652f62616533306530633761636665633239366535613330643061373561663066312e676966"  />
+  <img height="180"   src="https://camo.githubusercontent.com/6323605ff4cb82528e17f98957e67bbe8215ee632f28da9835fe69ec8f49000a/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f62612f65332f30652f62616533306530633761636665633239366535613330643061373561663066312e676966"  />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  <a href="https://www.linkedin.com/in/biancaaglio/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
+  </a>
+  
+<a href="mailto:bianca.aglio4@gmail.com">
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" />
+</a>
 </div>
 
 ###
