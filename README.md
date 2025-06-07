@@ -1,31 +1,26 @@
-
 <div align="center">
-  <img height="150" src="https://i.pinimg.com/originals/ba/e3/0e/bae30e0c7acfec296e5a30d0a75af0f1.gif"  />
+  <img height="180" src="https://camo.githubusercontent.com/6323605ff4cb82528e17f98957e67bbe8215ee632f28da9835fe69ec8f49000a/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f62612f65332f30652f62616533306530633761636665633239366535613330643061373561663066312e676966"  />
 </div>
 
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/biancaaglio/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  </a>
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
 </div>
 
 ###
 
-<h1 align="center">Olá Mundo!👋 Sou Bianca Aglio</h1>
+<h1 align="center">Hello World!! Sou Bianca Aglio</h1>
 
 ###
 
-<h3 align="left">Formação e cursos:</h3>
+<img align="left" height="200" src="https://img1.picmix.com/output/stamp/normal/6/3/1/6/1996136_0f2d1.gif"  />
 
 ###
 
-<div>
-  <ul>
+<div style="max-width: 600; margin: 0 auto;">
+  <ul style="list-style: disc inside; padding-left: 0;">
     <li>🎓 Técnico em Desenvolvimento de Sistemas – 1200h | SENAI (2023–2024)</li>
     <li>🧠 Soluções Integradas com IOT – 40h | SENAI (2023)</li>
     <li>🐍 Fundamentos do Python 1 – 30h | SENAI (2024)</li>
@@ -33,10 +28,6 @@
     <li>🎓 Tecnólogo em ADS – FATEC Presidente Prudente (2025–2027)</li>
   </ul>
 </div>
-
-###
-
-<h3 align="left">Tenho conhecimento em:</h3>
 
 ###
 
