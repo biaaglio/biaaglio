@@ -59,7 +59,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=biaaglio&show_icons=true&title_color=3ca6ff&text_color=ffffff&icon_color=3ca6ff&bg_color=0d1117&border_color=3ca6ff&theme=default&hide_border=false" height="130" alt="stats graph" />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=biaaglio&layout=compact&title_color=3ca6ff&text_color=ffffff&bg_color=0d1117&border_color=3ca6ff&theme=default&hide_border=false" height="130" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=biaaglio&layout=compact&title_color=3ca6ff&text_color=ffffff&bg_color=0d1117&border_color=3ca6ff&theme=default&hide_border=false&langs_count=10&cache_seconds=60" height="130" alt="languages graph" />
 </div>
 
 ###
