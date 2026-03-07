@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="180"   src="https://camo.githubusercontent.com/6323605ff4cb82528e17f98957e67bbe8215ee632f28da9835fe69ec8f49000a/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f62612f65332f30652f62616533306530633761636665633239366535613330643061373561663066312e676966"  />
+  <img height="180"   src="https://i.pinimg.com/originals/ba/e3/0e/bae30e0c7acfec296e5a30d0a75af0f1.gif"  />
 </div>
 
 ###
@@ -52,14 +52,6 @@
   <img src="https://skillicons.dev/icons?i=mysql" height="45" alt="mysql logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=arduino" height="45" alt="arduino logo"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=biaaglio&show_icons=true&title_color=3ca6ff&text_color=ffffff&icon_color=3ca6ff&bg_color=0d1117&border_color=3ca6ff&theme=default&hide_border=false" height="130" alt="stats graph" />
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=biaaglio&layout=compact&title_color=3ca6ff&text_color=ffffff&bg_color=0d1117&border_color=3ca6ff&theme=default&hide_border=false&langs_count=10&cache_seconds=60" height="130" alt="languages graph" />
 </div>
 
 ###
